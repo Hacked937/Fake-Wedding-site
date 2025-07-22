@@ -1,0 +1,9 @@
+const events = [
+  { id: 1, name: "Mehndi Night", date: "SOON" },
+  { id: 2, name: "Haldi Ceremony", date: "SOON" },
+  { id: 3, name: "Sangeet", date: "SOON" },
+  { id: 4, name: "Wedding", date: "SOON" },
+  { id: 5, name: "Reception", date: "SOON" },
+];
+
+export default events;
